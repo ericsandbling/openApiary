@@ -1,10 +1,11 @@
-= Bikupan
+= Open Bee Hive
 Eric Sandbling, https://github.com/ericsandbling
 :toc:
 :toc-title: Innehållsförteckning
 :toclevels: 5
 :sectnums:
 
-// A sustainable and ecologically conscious bee hive designed for rational bee husbandry.
+A sustainable and ecologically conscious bee hive designed for rational bee husbandry.
 
-En ekologisk, hållbar och miljömedveten bikupa för en rationell biskötsel.
+Read More in your language:
+* link:docs/README.swe-SV.adoc[Svenska]
