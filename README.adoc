@@ -7,6 +7,12 @@ Eric Sandbling, https://github.com/ericsandbling
 
 A sustainable and ecologically conscious bee hive designed for rational bee husbandry.
 
-Read More in your language:
+== Read More
+
+Read more in your language:
 
 * link:docs/README.swe-SV.adoc[Svenska]
+
+== Copyright
+
+The content of this project itself is licensed under the https://creativecommons.org/licenses/by/3.0/[Creative Commons Attribution 3.0 Unported license], and the underlying source code used to format and display that content is licensed under the link:LICENSE.adoc[MIT license].
