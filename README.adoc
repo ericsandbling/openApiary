@@ -8,4 +8,5 @@ Eric Sandbling, https://github.com/ericsandbling
 A sustainable and ecologically conscious bee hive designed for rational bee husbandry.
 
 Read More in your language:
+
 * link:docs/README.swe-SV.adoc[Svenska]
