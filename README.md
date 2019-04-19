@@ -1,8 +1,6 @@
 # openApiary
 <!-- Eric Sandbling, https://github.com/ericsandbling -->
 
-A sustainable and ecologically conscious bee husbandry system designed for rational bee keeping.
-
 For further details please have a look at the [docs/](docs/index.md) folder or the [Public Pages](https://ericsandbling.github.io/openApiary/) of this repository.
 
 ## Copyright
