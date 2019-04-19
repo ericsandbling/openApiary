@@ -1,14 +1,8 @@
-= Open Apiary
+= Docs
 Eric Sandbling, https://github.com/ericsandbling
-:toc:
+// :toc:
 // :toc-title: Innehållsförteckning
-:toclevels: 5
+// :toclevels: 5
 :sectnums:
 
-A sustainable and ecologically conscious bee husbandry system designed for rational bee keeping.
-
-== Introduction
-
-The purpose of this repository is to develop a system for sustainable and ecologically conscious as well as rational bee husbandry.
-
-At the outset of the project this is intended to include hive design as well as https://en.wikipedia.org/wiki/Information_and_communications_technology[ICT] systems surrounding the hive and the bee husbandry as a whole. ICT in this context might include features such as remote monitoring systems as well as cloud base diary tools for the apiarist.
+This folder represents the public face of the repository, with content published using https://pages.github.com/[GitHub Pages].
