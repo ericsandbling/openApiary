@@ -1,9 +1,12 @@
-= Project Backlog
+= Features
 Eric Sandbling, https://github.com/ericsandbling
 :toc:
 //:toc-title: Innehållsförteckning
 :toclevels: 5
 :sectnums:
+
+This document establishes a baseline for all features defined within the scope of the _openBeeHive_ project.
+
 
 Here goes the project backlog. Each top level heading represents a feature in the project, and the priority is determined by the order of the headings.
 
