@@ -33,6 +33,9 @@ The added value of having a remote monitoring system for the hive would include 
 * Reduced time before a problem with a colony or hive is detected.
 * Increase accuracy and understanding of colony and hive health.
 
+Resources::
+https://www.osbeehives.com[osbeehives]
+
 === Solution Proposals
 
 Main solution should consist of three main subsystems; *hiveClient*, *hiveCloud* and *userClient*.
