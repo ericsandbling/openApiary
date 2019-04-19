@@ -1,8 +1,0 @@
-= Docs
-Eric Sandbling, https://github.com/ericsandbling
-// :toc:
-// :toc-title: Innehållsförteckning
-// :toclevels: 5
-:sectnums:
-
-This folder represents the public face of the repository, with content published using https://pages.github.com/[GitHub Pages].
