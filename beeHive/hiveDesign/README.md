@@ -1,6 +1,7 @@
 # Bee Hive
+<!-- Eric Sandbling, https://github.com/ericsandbling -->
 
-This document establishes a baseline for the hive design part of the _openApiary_ repository.
+This document establishes a baseline for the Bee Hive Design part of the _openApiary_ repository.
 
 ## Executive Summary
 
@@ -25,9 +26,9 @@ This section shall provide a background for and introduction to some basic assum
 
 This section shall detail input requirements identified for the _Bee Hive_.
 
-## Features
+## Road Map
 
-This section shall establish a comprehensive list of features included in the Bee Hive. The features in this section shall constitute the intended tools used to accomplish the goals and objectives set forth in the [Executive Summary](#executive-summary) section of this document.
+This section shall establish a comprehensive list of features included in or planned for the Bee Hive. The features in this section shall constitute the intended tools used to accomplish the goals and objectives set forth in the [Executive Summary](#executive-summary) section of this document.
 
 ### Overview (list)
 
