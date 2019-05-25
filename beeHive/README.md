@@ -1,3 +1,4 @@
 # Bee Hive
+<!-- Eric Sandbling, https://github.com/ericsandbling -->
 
-This document establies a baseline for the hive design part of the _openApiary_ repository.
+This folder in the _openApiary_ repository represents the Bee Hive. Design as well as history, purpose and usage of the hive will be developed in this folder.
