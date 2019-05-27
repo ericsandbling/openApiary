@@ -23,12 +23,31 @@ The term is popularly credited to [Rev. Lorenzo Lorraine Langstroth](https://en.
 
 <!-- http://www.dave-cushman.net/bee/bsp.html -->
 
+## Cover Boards
+<!-- #cover-boards -->
+<!-- swe-SV: täckbrädor -->
+
+The cover boards are a feature of the Langstroth hive and serve the function of covering the top of the hive when the roof of the beehive has been removed. The Cover boards can be made out of multiple boards of wood, sheets of glass, plastic or hemp fibers and allows the apiarist to easily cover the top of the hive without needing to replace the roof.
+
+## Frame Grove
+<!-- #frame-grove -->
+<!-- swe-SV: rambärarfals, rambärarlist -->
+
+The frame grove and ledge is the small ledge on the inside of the brood and honey box where the honey frames rest upon. The frame grove allows the boxes to be stacked in the Langstroth hive system without any gap while maintaining the bee space.
+
 ## Honey Frame
 <!-- #honey-frame -->
 <!-- swe-SV: biram -->
 <!-- https://en.wikipedia.org/wiki/Hive_frame -->
 
 The _Honey Frame_ or _Hive Frame_ is a structural unit of the beehive holding the honeycomb or brood comb.
+
+## Langstroth Hive
+<!-- #langstroth-hive -->
+<!-- swe-SV: vandringskupa, uppstaplingskupa -->
+<!-- https://en.wikipedia.org/wiki/Langstroth_hive -->
+
+In modern beekeeping, a Langstroth hive is any vertically modular beehive that has the key features of vertically hung frames, a bottom board with entrance for the bees, boxes containing frames for brood and honey (the lowest box for the queen to lay eggs, and boxes above where honey may be stored) and an inner cover and top cap to provide weather protection. In a Langstroth hive, the bees build honeycomb into frames, which can be moved with ease.
 
 ## Propolis
 <!-- #propolis -->
