@@ -7,7 +7,7 @@ This document sets out to establish a baseline for the important and global meas
 
 <!-- SBR Standard - Mått för yngelrum och skattlådor med tillbehör, 4th revision, SBR 2005, read (2019-05-25): http://www.olandsbiodlarforening.se/files/SBR_Standard_Mtt_p_Yngelrum_ramar.pdf -->
 
-Using standard measurements and definitions in the hive design ensures both compatibility with Original Parts Manufacturer (OEM) parts as well as utilizes when appropriate the accumulated empirical expertise inherent in the standard.
+Using standard measurements and definitions in the hive design ensures both compatibility with _Original Parts Manufacturer (OEM)_ parts as well as utilizes when appropriate the accumulated empirical expertise inherent in the standard.
 
 Standard measurements and norms for tolerances in the materials used for bee cultivation is necessary. Most especially for the apiary is the [_Bee Space_][bee-space], where a too small space will encourage the bees to fill and seal, and a too large space will allow the uncontrolled development of combs.
 
@@ -111,27 +111,27 @@ _Abbreviations:_
  * **L:** Length
  * **H:** Height
 
-| Frame Type            | N  | W   | L	 | H   |
-| ---                   | -- | --- | --- | --- |
-| Svea      	          | 5	 | 316 | 189 | 308 |
-| -                     | 8  | 316 | 316 | 308 |
-| -                     | 10 | 316 | 382 | 308 |
-| -                     | 18 | 316 | 720 | 308 |
-| 1/2 Svea 	            | 8	 | 316 | 316 | 154 |
-| -                     | 10 | 316 | 382 | 154 |
-| Norsk	                | 10 | 380 | 380 | 268 |
-| 1/2 Norsk       	    | 10 | 380 | 380 | 168 |
-| Wieslander	          | 10 | 382 | 382 | 286 |
-| Lågnormal             | 5  | 382 | 189 | 230 |
-| -                     | 8  | 382 | 316 | 230 |
-| -                     | 10 | 382 | 382 | 230 |
-| -                     | 18 | 382 | 720 | 230 |
-| LS<sup>(1)</sup>      | 13 | 382 | 487 | 308 |
-| 1/2 LS                | 13 | 382 | 487 | 154 |
-| Langstroth	          | 10 | 464 | 370 | 240 |
-| Farrar<sup>(2)</sup>  | 10 | 464 | 370 | 167 |
-| Shallow<sup>(3)</sup> | 12 | 464 | 464 | 145 |
-| Dadant      	        | 12 | 464 | 464 | 294 |
+| Frame Type            | N  | W   | L	 | H   | Note   |
+| ---                   | -- | --- | --- | --- | ------ |
+| Svea      	          | 5	 | 316 | 189 | 308 |        |
+| -                     | 8  | 316 | 316 | 308 | Square |
+| -                     | 10 | 316 | 382 | 308 |        |
+| -                     | 18 | 316 | 720 | 308 |        |
+| 1/2 Svea 	            | 8	 | 316 | 316 | 154 | Square |
+| -                     | 10 | 316 | 382 | 154 |        |
+| Norsk	                | 10 | 380 | 380 | 268 | Square |
+| 1/2 Norsk       	    | 10 | 380 | 380 | 168 | Square |
+| Wieslander	          | 10 | 382 | 382 | 286 | Square |
+| Lågnormal             | 5  | 382 | 189 | 230 |        |
+| -                     | 8  | 382 | 316 | 230 |        |
+| -                     | 10 | 382 | 382 | 230 | Square |
+| -                     | 18 | 382 | 720 | 230 |        |
+| LS<sup>(1)</sup>      | 13 | 382 | 487 | 308 |        |
+| 1/2 LS                | 13 | 382 | 487 | 154 |        |
+| Langstroth	          | 10 | 464 | 370 | 240 |        |
+| Farrar<sup>(2)</sup>  | 10 | 464 | 370 | 167 |        |
+| Shallow<sup>(3)</sup> | 12 | 464 | 464 | 145 | Square |
+| Dadant      	        | 12 | 464 | 464 | 294 | Square |
 
 _**Notes:**_:
 
@@ -173,8 +173,17 @@ The length of the cover board shall exceed the inner length of the box with _44 
 
  * **Wood:** _10 mm_
  * **Glass:** _6 mm_
- * **Plasic:** _>4 mm_
+ * **Plastic:** _>4 mm_
 
+The width shall measure for:
+
+ * _Lågnormal_, _Svea_ and _Norsk_:
+  - Wood: _70 mm_
+  - Plastic and glass: _70 mm_ alt. _140 mm_
+
+* _Langstroth_, _Farrar_ and _Dadant_:
+  - Wood: _72 mm_
+  - Plastic and glass: _72 mm_ alt. _127 mm_
 
 <!-- References -->
 [bee-space]: ./../../dkr/definitions.md#bee-space
